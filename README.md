@@ -1,4 +1,4 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+# <a href="https://vinaykgowda.netlify.app/" target="_blank">My Alternate Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/opivcm/My-Website)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinaykgowda.netlify.app/).
