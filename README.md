@@ -1,6 +1,6 @@
 # <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/opivcm/My-Website))
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
 [![Author](https://img.shields.io/badge/Author-Vinay%20K%20Gowda-blue.svg)](https://www.linkedin.com/in/vinay-k-gowda-78a2a2229/)
 
