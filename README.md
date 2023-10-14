@@ -1,7 +1,7 @@
 # <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/opivcm/My-Website)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinaykgowda.netlify.app/).
 [![Author](https://img.shields.io/badge/Author-Vinay%20K%20Gowda-blue.svg)](https://www.linkedin.com/in/vinay-k-gowda-78a2a2229/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0da11988-9067-4b62-b0e4-8343b0daeb4a/deploy-status)](https://vinaykgowda.netlify.app/)
 
